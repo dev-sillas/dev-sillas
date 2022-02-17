@@ -1,12 +1,15 @@
-<h5> Observações gerais </h5>
-
+<h5> hello, my name is silla, nice to meet you! 👋😁</h5>
 Meu nome é Sillas Torres Santos, tenho 21 anos.Sou um jovem apaixonado por computação, tecnologia e tudo que envolve esse mundo maravilhoso.
-Estou no 5° semestre da faculdade de ciências da computação na instituição UNICID e cursando inglês na FreeUp.Em busca de primeira oportunidade de trabalho, coloco-me à disposição para iniciar minha trajetória profissional como desenvolvedor. Tenho muita força de vontade para aprender, sempre buscando o melhor de mim a cada dia que passa.
-  <div> 
-  <a href = "mailto:sillas.zom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Estou no 5° semestre da faculdade de ciências da computação na instituição UNICID e cursando inglês na FreeUp. Em busca de primeira oportunidade de trabalho, coloco-me à disposição para iniciar minha trajetória profissional como desenvolvedor. Tenho muita força de vontade para aprender, sempre buscando o melhor de mim a cada dia que passa.
+
+##
+
+<div> 
+  <a   href = "mailto:sillas.zom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sillas-torres-410135175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
   </div>
+  
 <div>
   <a href="https://github.com/dev-sillas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dev-sillas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,6 +27,8 @@ Estou no 5° semestre da faculdade de ciências da computação na instituição
   </div>
 <div>  
  
+##
+
   ![Snake animation](https://github.com/dev-sillas/dev-sillas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
