@@ -1,10 +1,7 @@
 <h5> Observações gerais </h5>
 
-Meu nome é sillas torres santos, tenho 21 anos.Sou um jovem apaixonado por computação, tecnologia e tudo que envolve esse mundo maravilhoso.
-Estou no 5° semestre da faculdade de ciências da computação e cursando inglês. Procuro um estágio para
-começar a crescer na minha área. Quero me desenvolver na área voltada a back end e me tornar
-especialista em Oracle, sql, mongoDB e tecnologias wep como HTML, CSS, JavaScript.
-##
+Meu nome é Sillas Torres Santos, tenho 21 anos.Sou um jovem apaixonado por computação, tecnologia e tudo que envolve esse mundo maravilhoso.
+Estou no 5° semestre da faculdade de ciências da computação na instituição UNICID e cursando inglês na FreeUp.Em busca de primeira oportunidade de trabalho, coloco-me à disposição para iniciar minha trajetória profissional como desenvolvedor. Tenho muita força de vontade para aprender, sempre buscando o melhor de mim a cada dia que passa.
   <div> 
   <a href = "mailto:sillas.zom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sillas-torres-410135175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
